@@ -1,8 +1,8 @@
-package property
+package property_testing
 
 import (
 	"fmt"
-	"property-testing/property/generator"
+	"github.com/pete-vivacity/property-testing/pkg/generator"
 	. "reflect"
 	"strings"
 	"testing"
