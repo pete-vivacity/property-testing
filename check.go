@@ -1,12 +1,15 @@
-package pkg
+package quickcheck
 
 import (
 	"fmt"
-	"github.com/pete-vivacity/property-testing/pkg/generator"
-	. "reflect"
+	"github.com/pete-vivacity/property-testing/internal/generator"
 	"strings"
 	"testing"
 	"time"
+)
+
+import (
+	. "reflect"
 )
 
 func findCounterExample(f any, trials int) []Value {

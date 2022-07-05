@@ -1,4 +1,4 @@
-package pkg
+package quickcheck
 
 import (
 	"testing"

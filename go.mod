@@ -1,4 +1,4 @@
-module github.com/pete-vivacity/property-testing
+module github.com/pete-vivacity/quickcheck
 
 go 1.18
 
