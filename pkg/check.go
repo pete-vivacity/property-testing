@@ -1,4 +1,4 @@
-package property_testing
+package pkg
 
 import (
 	"fmt"
