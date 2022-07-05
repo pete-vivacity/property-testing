@@ -1,4 +1,4 @@
-module property-testing
+module github.com/pete-vivacity/property-testing
 
 go 1.18
 
